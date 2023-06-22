@@ -7,22 +7,7 @@ sections:
     title: Biography
     username: admin
   id: about
-- block: features
-  content:
-    items:
-    - description: 90%
-      icon: r-project
-      icon_pack: fab
-      name: R
-    - description: 100%
-      icon: chart-line
-      icon_pack: fas
-      name: Statistics
-    - description: 10%
-      icon: camera-retro
-      icon_pack: fas
-      name: Photography
-    title: Skills
+
 - block: experience
   content:
     date_format: Jan 2006
@@ -166,11 +151,7 @@ sections:
     columns: "2"
     view: compact
   id: talks
-- block: tag_cloud
-  content:
-    title: Popular Topics
-  design:
-    columns: "2"
+
 - block: contact
   content:
     title: Contact
