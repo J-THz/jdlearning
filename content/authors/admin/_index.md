@@ -2,10 +2,10 @@
 title: "Junliang Dong"
 education:
   courses:
-  - course: Ph.D. in Electrical Engineering
+  - course: Ph.D. in Electrical and Computer Engineering
     institution: Georgia Institute of Technology, USA
     year: 2017
-  - course: M.Sc. in Control Engineering
+  - course: M.Sc. in Control Science and Engineering
     institution: Tsinghua University, China
     year: 2011
 
@@ -33,9 +33,9 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/JunliangTHz
-- icon: "graduation-cap"
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=AKR48hoAAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Junliang-Dong-2
