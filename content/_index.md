@@ -173,16 +173,26 @@ sections:
     columns: "2"
 - block: contact
   content:
+    title: Contact
     autolink: true
+    email: Junliang.Dong@inrs.ca
+    address:
+        street: 1650 Boul. Lionel Boulet
+        city: Varennes
+        region: QC
+        postcode: 'J3X 1P7'
+        country: Canada
+        country_code: CA
+    directions: Office 109
     contact_links:
     - icon: twitter
       icon_pack: fab
       link: https://twitter.com/JunliangTHz
       name: Follow Me
-
-    email: Junliang.Dong@inrs.ca
+    coordinates:
+      latitude: '45.630015909254425'
+      longitude: '-73.3831983349873'
     
-    title: Contact
   design:
     columns: "2"
   id: contact
