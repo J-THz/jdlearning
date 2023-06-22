@@ -14,7 +14,7 @@ first_name: Junliang
 highlight_name: yes
 interests:
 - Terahertz Technology
-- Imaging Science
+- Imaging and Sensing
 - Communications
 - Biophotonics
 - Nondestructive Evaluation
@@ -34,11 +34,14 @@ social:
   label: Follow me on Twitter
   link: https://twitter.com/JunliangTHz
 - icon: google-scholar
-  icon_pack: fab
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=AKR48hoAAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Junliang-Dong-2
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3109-185X
 status:
   icon: ☕️
 superuser: yes
