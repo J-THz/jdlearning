@@ -39,21 +39,20 @@ sections:
       title: Postdoctoral Research Fellow
     - company: Georgia Tech - CNRS, International Research Lab (IRL) 2958
       company_logo: org-gt
-      company_url: "https://inrs.ca/en/"
+      company_url: "https://www.gatech.edu/"
       date_end: "2017-07-01"
       date_start: "2014-04-01"
       description: |2-
           * Advisor: Prof. David S. Citrin and Dr. Alexandre Locquet
           * THz imaging for nondestructive evaluation of fiber-reinforced composites.
           * THz applications in cultural heritage science: examination of art and archaeology.
-          * THz imaging for the non-invasive and non-contact characterization of failure modes and corrosion process in polyer-coated steel.
           * Advanced THz deconvolution techniques for depth resolution enhancement.
           * Funding: Conseil Regional du Grand Est of the Fonds European de Developpement Regional (FEDER) and the Institut Carnot ARTS.
       location: Atlanta, USA/Metz, France
       title: Graduate Research Assistant
     - company: Georgia Tech - CNRS, International Research Lab (IRL) 2958
       company_logo: org-gt
-      company_url: "https://inrs.ca/en/"
+      company_url: "https://www.gatech.edu/"
       date_end: "2017-07-01"
       date_start: "2016-01-01"
       description: |2-
@@ -88,6 +87,8 @@ sections:
     
   design:
     columns: "2"
+    
+    
 - block: accomplishments
   content:
     date_format: Jan 2006
