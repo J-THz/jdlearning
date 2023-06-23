@@ -16,8 +16,8 @@ image:
   focal_point: ""
   preview_only: false
 
-publication: In *Nature Communications*
-publication_short: In *Nature Communications*
+publication: '*Nature Communications*'
+publication_short: 
 publication_types:
 - "2"
 publishDate: "2023-03-27T00:00:00Z"
