@@ -1,31 +1,30 @@
 ---
-abstract: In this work, the time-domain integration of broadband terahertz (THz) pulses via a tapered two-wire waveguide (TTWWG) is reported. Such a guiding structure consists of two metallic wires separated by a variable air gap that shrinks down to a subwavelength size as the movement takes from the waveguide input to its output. It is shown that while an input THz pulse propagates toward the subwavelength output gap, it is reshaped into its first-order time integral waveform. In order to prove the TTWWG time integration functionality, the THz pulse is detected directly within the output gap of the waveguide, so as to prevent the outcoupling diffraction from altering the shape of the time-integrated THz transient. Since the time-domain integration is due to the tight geometrical confinement of the THz radiation in a subwavelength gap volume, the TTWWG operational spectral range can easily be tuned by judiciously changing both the output gap size and the tapering angle. The results lead to the physical realization of a broadband, analog THz time integrator device, which is envisioned to serve as a key building block for the implementation of complex and ultrahigh-speed analog signal processing operations in THz communication systems.
+abstract: We present an implementation of the single-pixel imaging approach into a terahertz (THz) time-domain spectroscopy (TDS) system. We demonstrate the indirect coherent reconstruction of THz temporal waveforms at each spatial position of an object, without the need of mechanical raster-scanning. First, we exploit such temporal information to realize (far-field) time-of-flight images. In addition, as a proof of concept, we apply a typical compressive sensing algorithm to demonstrate image reconstruction with less than 50% of the total required measurements. Finally, the access to frequency domain is also demonstrated by reconstructing spectral images of an object featuring an absorption line in the THz range. The combination of single-pixel imaging with compressive sensing algorithms allows to reduce both complexity and acquisition time of current THz-TDS imaging systems.
 author_notes:
 
 authors:
-- Giacomo Balistreri
-- Alessandro Tomasino
+- Luca Zanotto
+- Riccardo Piccoli
 - admin
-- Aycan Yurtsever
-- Salvatore Stivala
-- Jose Azana
+- Diego Caraffini
 - Roberto Morandotti
+- Luca Razzari
 
-date: "2021-06-27T00:00:00Z"
-doi: "10.1002/lpor.202100051"
+date: "2020-02-03T00:00:00Z"
+doi: "10.1364/OE.384134"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Laser & Photonics Reviews*'
+publication: '*Optics Express*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-06-27T00:00:00Z"
+publishDate: "2020-02-03T00:00:00Z"
 
-title: Time-Domain Integration of Broadband Terahertz Pulses in a Tapered Two-Wire Waveguide
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202100051
+title: Time-domain terahertz compressive imaging
+url_pdf: https://opg.optica.org/oe/viewmedia.cfm?uri=oe-28-3-3795&seq=0
 
 ---
