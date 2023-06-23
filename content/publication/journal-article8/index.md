@@ -1,31 +1,29 @@
 ---
-abstract: In this work, the time-domain integration of broadband terahertz (THz) pulses via a tapered two-wire waveguide (TTWWG) is reported. Such a guiding structure consists of two metallic wires separated by a variable air gap that shrinks down to a subwavelength size as the movement takes from the waveguide input to its output. It is shown that while an input THz pulse propagates toward the subwavelength output gap, it is reshaped into its first-order time integral waveform. In order to prove the TTWWG time integration functionality, the THz pulse is detected directly within the output gap of the waveguide, so as to prevent the outcoupling diffraction from altering the shape of the time-integrated THz transient. Since the time-domain integration is due to the tight geometrical confinement of the THz radiation in a subwavelength gap volume, the TTWWG operational spectral range can easily be tuned by judiciously changing both the output gap size and the tapering angle. The results lead to the physical realization of a broadband, analog THz time integrator device, which is envisioned to serve as a key building block for the implementation of complex and ultrahigh-speed analog signal processing operations in THz communication systems.
+abstract: This paper is devoted to reviewing the results achieved so far in the application of the single-pixel imaging technique to terahertz (THz) systems. The use of THz radiation for imaging purposes has been largely explored in the last twenty years, due to the unique capabilities of this kind of radiation in interrogating material properties. However, THz imaging systems are still limited by the long acquisition time required to reconstruct the object image and significant efforts have been recently directed to overcome this drawback. One of the most promising approaches in this sense is the so-called "single-pixel" imaging, which in general enables image reconstruction by patterning the beam probing the object and measuring the total transmission (or reflection) with a single-pixel detector (i.e., with no spatial resolution). The main advantages of such technique are that i) no bulky moving parts are required to raster-scan the object and ii) compressed sensing (CS) algorithms, which allow an appropriate reconstruction of the image with an incomplete set of measurements, can be successfully implemented. Overall, this can result in a reduction of the acquisition time. In this review, we cover the experimental solutions proposed to implement such imaging technique at THz frequencies, as well as some practical uses for typical THz applications.
 author_notes:
 
 authors:
-- Giacomo Balistreri
-- Alessandro Tomasino
+- Luca Zanotto
+- Riccardo Piccoli
 - admin
-- Aycan Yurtsever
-- Salvatore Stivala
-- Jose Azana
 - Roberto Morandotti
+- Luca Razzari
 
-date: "2021-06-27T00:00:00Z"
-doi: "10.1002/lpor.202100051"
+date: "2021-01-08T00:00:00Z"
+doi: "10.29026/oea.2020.200012"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Laser & Photonics Reviews*'
+publication: '*Opto-Electronic Advances*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-06-27T00:00:00Z"
+publishDate: "2021-01-08T00:00:00Z"
 
-title: Time-Domain Integration of Broadband Terahertz Pulses in a Tapered Two-Wire Waveguide
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202100051
+title: 'Single-pixel terahertz imaging: a review'
+url_pdf: https://www.opticsjournal.net/Articles/OJ3b8c0c53679d1fa7/FullText
 
 ---

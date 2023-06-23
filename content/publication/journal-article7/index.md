@@ -14,7 +14,7 @@ date: "2020-02-03T00:00:00Z"
 doi: "10.1364/OE.384134"
 featured: false
 image:
-  caption: ''
+  caption: 'Image credit: Riccardo Piccoli'
   focal_point: ""
   preview_only: false
 projects: []
