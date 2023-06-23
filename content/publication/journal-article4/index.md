@@ -1,38 +1,29 @@
 ---
-abstract: Waveguides play a pivotal role in the full deployment of terahertz communication systems. Besides signal transporting, innovative terahertz waveguides are required to provide versatile signal-processing functionalities. Despite fundamental components, such as Bragg gratings, have been recently realized, they typically rely on complex hybridization, in turn making it extremely challenging to go beyond the most elementary functions. Here, we propose a universal approach, in which multiscale-structured Bragg gratings can be directly etched on metal-wires. Such an approach, in combination with diverse waveguide designs, allows for the realization of a unique platform with remarkable structural simplicity, yet featuring unprecedented signal-processing capabilities. As an example, we introduce a four-wire waveguide geometry, amenable to support the low-loss and low-dispersion propagation of polarization-division multiplexed terahertz signals. Furthermore, by engraving on the wires judiciously designed Bragg gratings based on multiscale structures, it is possible to independently manipulate two polarization-division multiplexed terahertz signals. This platform opens up new exciting perspectives for exploiting the polarization degree of freedom and ultimately boosting the capacity and spectral efficiency of future terahertz networks.
+abstract: The presence of a corrosion layer on lead art and archæological objects can severely impede the interpretation of inscriptions, thus hampering our overall understanding of the object and its context. While the oxidation of lead that dominates corrosion may be chemically reversible via reduction, potentially providing some access to inscriptions otherwise obscured by time, corrosion damage is overall neither entirely reversible nor is the reduction process in all cases easy or feasible to carry out. In this study, by taking advantage of the unique penetration ability of terahertz radiation and the abundant frequency bands covered by a single-cycle terahertz pulse, we perform nondestructive terahertz multispectral imaging to look under the corrosion on a sixteenth century lead funerary cross (croix d’absolution) from Remiremont in Lorraine, France. The multispectral images obtained from various terahertz frequency bands are fed into a judiciously designed post-processing chain for image restoration and enhancement, thus allowing us for the first time to read obscured inscriptions that might have otherwise been lost. Our approach, which brings together in a new way the THz properties of the constituent materials and advanced signal- and image-processing techniques, opens up new perspectives for multi-resolution analysis at terahertz frequencies as a technique in archæometry and will ultimately provide unprecedented information for digital acquisition and documentation, character extraction, classification, and recognition in archæological studies.
 author_notes:
 
 authors:
 - admin
-- Alessandro Tomasino
-- Giacomo Balistreri
-- Pei You
-- Anton Vorobiov
-- Etienne Charette
-- Boris Le Drogoff
-- Mohamed Chaker
-- Aycan Yurtsever
-- Salvatore Stivala
-- Maria A. Vincenti
-- Costantino De Angelis
-- Detlef Kip
-- Jose Azana
-- Roberto Morandotti
-date: "2022-02-08T00:00:00Z"
-doi: "10.1038/s41467-022-27993-7"
-featured: true
+- Ana Ribeiro
+- Aurelien Vacheret
+- Alexandre Locquet
+- D. S. Citrin
+
+date: "2022-03-03T00:00:00Z"
+doi: "10.1038/s41598-022-06982-2"
+featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Nature Communications*'
+publication: '*Scientific Reports*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-02-08T00:00:00Z"
+publishDate: "2022-03-03T00:00:00Z"
 
-title: Versatile metal-wire waveguides for broadband terahertz signal processing and multiplexing
-url_pdf: https://rdcu.be/dfeWX
+title: Revealing inscriptions obscured by time on an early-modern lead funerary cross using terahertz multispectral imaging
+url_pdf: https://rdcu.be/dfe2v
 
 ---
