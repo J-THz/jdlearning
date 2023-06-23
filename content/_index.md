@@ -51,6 +51,17 @@ sections:
           * Funding: Conseil Regional du Grand Est of the Fonds European de Developpement Regional (FEDER) and the Institut Carnot ARTS.
       location: Atlanta, USA/Metz, France
       title: Graduate Research Assistant
+    - company: Georgia Tech - CNRS, International Research Lab (IRL) 2958
+      company_logo: org-gt
+      company_url: "https://inrs.ca/en/"
+      date_end: "2017-07-01"
+      date_start: "2016-01-01"
+      description: |2-
+          * Advisor: Prof. David S. Citrin and Dr. Alexandre Locquet
+          * THz imaging for the non-invasive and non-contact characterization of failure modes and corrosion process in polyer-coated steel.
+          * Funding: ArcelorMittal, the World's Leading Integrated Steel and Mining Company.
+      location: Atlanta, USA/Metz, France
+      title: Graduate Research Assistant
     - company: Department of Automation, Tsinghua University
       company_logo: org-ts
       company_url: "https://www.tsinghua.edu.cn/en/"
