@@ -13,7 +13,7 @@ sections:
     date_format: Jan 2006
     items:
     - company: Institut National de la Recherche Scientifique (INRS)
-      company_logo: org-gc
+      company_logo: org-1
       company_url: "https://inrs.ca/en/"
       date_end: ""
       date_start: "2020-04-01"
@@ -25,15 +25,20 @@ sections:
       
       title: Group leader
     - company: Institut National de la Recherche Scientifique (INRS)
-      company_logo: org-x
+      company_logo: org-1
       company_url: "https://inrs.ca/en/"
       date_end: "2020-03-01"
       date_start: "2017-08-01"
-      description: Taught electronic engineering and researched semiconductor physics.
+      description: |2-
+          * Advisor: Prof. Roberto Morandotti
+          * Single-shot ultrafast THz photography for capturing transient events.
+          * Waveguide-integrated signal-processing devices for THz communications. 
+          * THz biomedical imaging for nanoparticle-assisted laser therapeutics.
+          * Funding: Mitacs Elevate Postdoctoral Fellowship.
       location: Montreal, Canada
       title: Postdoctoral Research Fellow
     - company: Georgia Tech - CNRS, International Research Lab (IRL) 2958
-      company_logo: org-x
+      company_logo: org-gt
       company_url: "https://inrs.ca/en/"
       date_end: "2017-07-01"
       date_start: "2014-04-01"
@@ -44,10 +49,10 @@ sections:
           * THz imaging for the non-invasive and non-contact characterization of failure modes and corrosion process in polyer-coated steel.
           * Advanced THz deconvolution techniques for depth resolution enhancement.
           * Funding: Conseil Regional du Grand Est of the Fonds European de Developpement Regional (FEDER) and the Institut Carnot ARTS.
-      location: Metz, France
+      location: Atlanta, USA/Metz, France
       title: Graduate Research Assistant
     - company: Department of Automation, Tsinghua University
-      company_logo: org-x
+      company_logo: org-ts
       company_url: "https://www.tsinghua.edu.cn/en/"
       date_end: "2011-07-01"
       date_start: "2008-08-01"
@@ -58,10 +63,10 @@ sections:
       location: Beijing, China
       title: Graduate Research Assistant
     - company: Department of Automation, Tsinghua University
-      company_logo: org-x
+      company_logo: org-ts
       company_url: "https://www.tsinghua.edu.cn/en/"
-      date_end: "2011-07-01"
-      date_start: "2008-08-01"
+      date_end: "2008-07-01"
+      date_start: "2007-08-01"
       description: |2-
           * Advisor: Prof. Yong Zhao
           * Research on optical fiber sensing system based on magnetic fluid.
