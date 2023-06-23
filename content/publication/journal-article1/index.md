@@ -12,7 +12,7 @@ date: "2023-03-27T00:00:00Z"
 doi: "10.1038/s41467-023-37285-3"
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: Robin Helsten @ inrs'
   focal_point: ""
   preview_only: false
 
