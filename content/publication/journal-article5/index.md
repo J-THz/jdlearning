@@ -1,29 +1,31 @@
 ---
-abstract: The presence of a corrosion layer on lead art and archæological objects can severely impede the interpretation of inscriptions, thus hampering our overall understanding of the object and its context. While the oxidation of lead that dominates corrosion may be chemically reversible via reduction, potentially providing some access to inscriptions otherwise obscured by time, corrosion damage is overall neither entirely reversible nor is the reduction process in all cases easy or feasible to carry out. In this study, by taking advantage of the unique penetration ability of terahertz radiation and the abundant frequency bands covered by a single-cycle terahertz pulse, we perform nondestructive terahertz multispectral imaging to look under the corrosion on a sixteenth century lead funerary cross (croix d’absolution) from Remiremont in Lorraine, France. The multispectral images obtained from various terahertz frequency bands are fed into a judiciously designed post-processing chain for image restoration and enhancement, thus allowing us for the first time to read obscured inscriptions that might have otherwise been lost. Our approach, which brings together in a new way the THz properties of the constituent materials and advanced signal- and image-processing techniques, opens up new perspectives for multi-resolution analysis at terahertz frequencies as a technique in archæometry and will ultimately provide unprecedented information for digital acquisition and documentation, character extraction, classification, and recognition in archæological studies.
+abstract: In this work, the time-domain integration of broadband terahertz (THz) pulses via a tapered two-wire waveguide (TTWWG) is reported. Such a guiding structure consists of two metallic wires separated by a variable air gap that shrinks down to a subwavelength size as the movement takes from the waveguide input to its output. It is shown that while an input THz pulse propagates toward the subwavelength output gap, it is reshaped into its first-order time integral waveform. In order to prove the TTWWG time integration functionality, the THz pulse is detected directly within the output gap of the waveguide, so as to prevent the outcoupling diffraction from altering the shape of the time-integrated THz transient. Since the time-domain integration is due to the tight geometrical confinement of the THz radiation in a subwavelength gap volume, the TTWWG operational spectral range can easily be tuned by judiciously changing both the output gap size and the tapering angle. The results lead to the physical realization of a broadband, analog THz time integrator device, which is envisioned to serve as a key building block for the implementation of complex and ultrahigh-speed analog signal processing operations in THz communication systems.
 author_notes:
 
 authors:
+- Giacomo Balistreri
+- Alessandro Tomasino
 - admin
-- Ana Ribeiro
-- Aurelien Vacheret
-- Alexandre Locquet
-- D. S. Citrin
+- Aycan Yurtsever
+- Salvatore Stivala
+- Jose Azana
+- Roberto Morandotti
 
-date: "2022-03-03T00:00:00Z"
-doi: "10.1038/s41598-022-06982-2"
+date: "2021-06-27T00:00:00Z"
+doi: "10.1002/lpor.202100051"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Scientific Reports*'
+publication: '*Laser & Photonics Reviews*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-03-03T00:00:00Z"
+publishDate: "2021-06-27T00:00:00Z"
 
-title: Revealing inscriptions obscured by time on an early-modern lead funerary cross using terahertz multispectral imaging
-url_pdf: https://rdcu.be/dfe2v
+title: Time-Domain Integration of Broadband Terahertz Pulses in a Tapered Two-Wire Waveguide
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202100051
 
 ---
