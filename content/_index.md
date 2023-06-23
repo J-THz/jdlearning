@@ -12,28 +12,64 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
+    - company: Institut National de la Recherche Scientifique (INRS)
       company_logo: org-gc
-      company_url: ""
+      company_url: "https://inrs.ca/en/"
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2020-04-01"
       description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
+          * Advisor: Prof. Roberto Morandotti
+          * Managing all research activities related to THz photonics in the Nonlinear Photonics Group.
+          * Funding: NSERC Discovery, Strategic, and Alliance programs; New Frontiers in Research Fund (NFRF); FRQS Audace.
+      location: Montreal, Canada
+      
+      title: Group leader
+    - company: Institut National de la Recherche Scientifique (INRS)
       company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
+      company_url: "https://inrs.ca/en/"
+      date_end: "2020-03-01"
+      date_start: "2017-08-01"
       description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      location: Montreal, Canada
+      title: Postdoctoral Research Fellow
+    - company: Georgia Tech - CNRS, International Research Lab (IRL) 2958
+      company_logo: org-x
+      company_url: "https://inrs.ca/en/"
+      date_end: "2017-07-01"
+      date_start: "2014-04-01"
+      description: |2-
+          * Advisor: Prof. David S. Citrin and Dr. Alexandre Locquet
+          * THz imaging for nondestructive evaluation of fiber-reinforced composites.
+          * THz applications in cultural heritage science: examination of art and archaeology.
+          * THz imaging for the non-invasive and non-contact characterization of failure modes and corrosion process in polyer-coated steel.
+          * Advanced THz deconvolution techniques for depth resolution enhancement.
+          * Funding: Conseil Regional du Grand Est of the Fonds European de Developpement Regional (FEDER) and the Institut Carnot ARTS.
+      location: Metz, France
+      title: Graduate Research Assistant
+    - company: Department of Automation, Tsinghua University
+      company_logo: org-x
+      company_url: "https://www.tsinghua.edu.cn/en/"
+      date_end: "2011-07-01"
+      date_start: "2008-08-01"
+      description: |2-
+          * Advisor: Prof. Li Cao
+          * Novel measurment strategies for key physical parameters of gas/liquid in industrial pipelines.
+          * Funding: National Natural Science Foundation of China and Tokyo Keiso Co. Ltd, Japan.
+      location: Beijing, China
+      title: Graduate Research Assistant
+    - company: Department of Automation, Tsinghua University
+      company_logo: org-x
+      company_url: "https://www.tsinghua.edu.cn/en/"
+      date_end: "2011-07-01"
+      date_start: "2008-08-01"
+      description: |2-
+          * Advisor: Prof. Yong Zhao
+          * Research on optical fiber sensing system based on magnetic fluid.
+          * Funding: National Natural Science Foundation of China.
+      location: Beijing, China
+      title: Undergraduate Research Assistant
     title: Experience
+    
   design:
     columns: "2"
 - block: accomplishments
