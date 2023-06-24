@@ -1,27 +1,26 @@
 ---
-abstract: This Letter presents a method for enhancing the depth resolution of terahertz deconvolution based on autoregressive (AR) spectral extrapolation. The terahertz frequency components with a high signal-to-noise ratio (SNR) are modeled with an AR process, and the missing frequency components in the regions with low SNRs are extrapolated based on the AR model. In this way, the entire terahertz frequency spectrum of the impulse response function, corresponding to the material structure, is recovered. This method, which is verified numerically and experimentally, is able to provide a “quasi-ideal” impulse response function and, therefore, greatly enhances the depth resolution for characterizing optically thin layers in the terahertz regime.
+abstract: A method for viscosity measurement of Newtonian liquid using mode conversion from longitudinal wave to shear wave are presented in this paper. The Pspice electrical models for the simulation of the viscosity measurement system are established. An aluminum prism with an oblique solid-air interface converts the longitudinal wave to shear wave which is used to measure the liquid viscosity. Echo signals which obtain in the experiment are compared to the Pspice simulation results. By measuring the magnitude of the reflection coefficient alone in the frequency domain, we obtained the viscosity of Newtonian liquid with high accuracy which also fits the simulation results well. 
 author_notes:
 
 authors:
 - admin
-- Alexandre Locquet
-- D. S. Citrin
+- Li Cao
 
-date: "2017-04-08T00:00:00Z"
-doi: "10.1364/OL.42.001828"
+date: "2011-08-08T00:00:00Z"
+doi: "10.1166/sl.2011.1659"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Optics Letters*'
+publication: '*Sensor Letters*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-04-08T00:00:00Z"
+publishDate: "2011-08-08T00:00:00Z"
 
-title: 'Depth resolution enhancement of terahertz deconvolution by autoregressive spectral extrapolation '
-url_pdf: https://hal.science/hal-02347766/file/Depth_resolution_enhancement_of_terahertz_deconvolution_by_autoregressive_spectral_extrapolation__1_.pdf
+title: 'Viscosity Measurement of Newtonian Liquid Based on Ultrasonic Shear Wave Using Mode Conversion'
+url_pdf: https://www.ingentaconnect.com/content/asp/senlet/2011/00000009/00000004/art00036;jsessionid=abok9mer7s5ll.x-ic-live-01
 
 ---
