@@ -163,6 +163,7 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
+  
 - block: markdown
   content:
     subtitle: ""
@@ -170,6 +171,7 @@ sections:
     title: Gallery
   design:
     columns: "1"
+    
 - block: collection
   content:
     filters:
@@ -181,6 +183,7 @@ sections:
     columns: "2"
     view: card
   id: featured
+  
 - block: collection
   content:
     filters:
@@ -195,6 +198,7 @@ sections:
   design:
     columns: "2"
     view: citation
+    
 - block: collection
   content:
     filters:
