@@ -1,5 +1,5 @@
 ---
-abstract: This Letter presents a method for enhancing the depth resolution of terahertz deconvolution based on autoregressive (AR) spectral extrapolation. The terahertz frequency components with a high signal-to-noise ratio (SNR) are modeled with an AR process, and the missing frequency components in the regions with low SNRs are extrapolated based on the AR model. In this way, the entire terahertz frequency spectrum of the impulse response function, corresponding to the material structure, is recovered. This method, which is verified numerically and experimentally, is able to provide a “quasi-ideal” impulse response function and, therefore, greatly enhances the depth resolution for characterizing optically thin layers in the terahertz regime.
+abstract: Terahertz reflective imaging is applied to characterize the failure modes in a polymer coating on a steel plate. The coating was initially scratched, then after accelerated aging, several types of failure have occurred. In order to resolve the thin coating (~50 μm), terahertz frequency-wavelet domain deconvolution is implemented. With the deconvolved signals, the temporally overlapping echoes of the incident, roughly single-cycle terahertz pulse are clearly resolved, and three important failure modes, viz. corrosion, delamination, and blistering, are characterized quantitatively. Terahertz images in three dimensions clearly exhibit the coating thickness distribution across the entire damaged coating, highlighting the terahertz features associated with different failure modes, thus demonstrating that terahertz imaging can be considered as an effective modality for characterizing damage mechanisms in polymer coatings on metals.
 author_notes:
 
 authors:
@@ -7,21 +7,21 @@ authors:
 - Alexandre Locquet
 - D. S. Citrin
 
-date: "2017-04-08T00:00:00Z"
-doi: "10.1364/OL.42.001828"
+date: "2016-09-20T00:00:00Z"
+doi: "10.1109/JSTQE.2016.2611592"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Optics Letters*'
+publication: '*IEEE Journal of Selected Topics in Quantum Electronics*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-04-08T00:00:00Z"
+publishDate: "2016-09-20T00:00:00Z"
 
-title: 'Depth resolution enhancement of terahertz deconvolution by autoregressive spectral extrapolation '
-url_pdf: https://hal.science/hal-02347766/file/Depth_resolution_enhancement_of_terahertz_deconvolution_by_autoregressive_spectral_extrapolation__1_.pdf
+title: 'Terahertz Quantitative Nondestructive Evaluation of Failure Modes in Polymer-Coated Steel'
+url_pdf: https://hal.science/hal-03048478/file/16_JSTQE_Corrosion%20under%20painting.pdf
 
 ---
