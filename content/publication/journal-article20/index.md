@@ -1,27 +1,30 @@
 ---
-abstract: This Letter presents a method for enhancing the depth resolution of terahertz deconvolution based on autoregressive (AR) spectral extrapolation. The terahertz frequency components with a high signal-to-noise ratio (SNR) are modeled with an AR process, and the missing frequency components in the regions with low SNRs are extrapolated based on the AR model. In this way, the entire terahertz frequency spectrum of the impulse response function, corresponding to the material structure, is recovered. This method, which is verified numerically and experimentally, is able to provide a “quasi-ideal” impulse response function and, therefore, greatly enhances the depth resolution for characterizing optically thin layers in the terahertz regime.
+abstract: Glass fiber-reinforced composite laminates in polyetherimide resin have been studied via terahertz imaging and ultrasonic C-scans. The forced delamination is created by inserting Teflon film between various layers inside the samples prior to consolidating the laminates. Using reflective pulsed terahertz imaging, we find high-resolution, low-artifact terahertz C-scan and B-scan images locating and sizing the delamination in three dimensions. Furthermore, terahertz imaging enables us to determine the thicknesses of the delamination and of the layers constituting the laminate. Ultrasonic C-scan images are also successfully obtained; however, in our samples with small thickness-to-wavelength ratio, detailed ultrasonic B-scan images providing quantitative information in depth cannot be obtained by 5 MHz or 10 MHz focused transducers. Comparative analysis between terahertz imaging and ultrasonic C-scans with regard to spatial resolution is carried out demonstrating that terahertz imaging provides higher spatial resolution for imaging, and can be regarded as an alternative or complementary modality to ultrasonic C-scans for this class of glass fiber-reinforced composites.
 author_notes:
 
 authors:
 - admin
+- Byungchil Kim
 - Alexandre Locquet
+- Peter McKeon
+- Nico F. Declercq
 - D. S. Citrin
 
-date: "2017-04-08T00:00:00Z"
-doi: "10.1364/OL.42.001828"
+date: "2015-09-15T00:00:00Z"
+doi: "10.1016/j.compositesb.2015.05.028"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Optics Letters*'
+publication: '*Composites Part B: Engineering*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-04-08T00:00:00Z"
+publishDate: "2015-09-15T00:00:00Z"
 
-title: 'Depth resolution enhancement of terahertz deconvolution by autoregressive spectral extrapolation '
-url_pdf: https://hal.science/hal-02347766/file/Depth_resolution_enhancement_of_terahertz_deconvolution_by_autoregressive_spectral_extrapolation__1_.pdf
+title: 'Nondestructive evaluation of forced delamination in glass fiber-reinforced composites by terahertz and ultrasonic waves'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1359836815003327
 
 ---
