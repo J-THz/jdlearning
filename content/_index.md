@@ -122,6 +122,7 @@ sections:
     title: Accomplish&shy;ments
   design:
     columns: "2"
+    
 - block: collection
   content:
     count: 5
@@ -144,6 +145,7 @@ sections:
     columns: "2"
     view: compact
   id: posts
+  
 - block: portfolio
   content:
     buttons:
