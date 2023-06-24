@@ -1,27 +1,28 @@
 ---
-abstract: This Letter presents a method for enhancing the depth resolution of terahertz deconvolution based on autoregressive (AR) spectral extrapolation. The terahertz frequency components with a high signal-to-noise ratio (SNR) are modeled with an AR process, and the missing frequency components in the regions with low SNRs are extrapolated based on the AR model. In this way, the entire terahertz frequency spectrum of the impulse response function, corresponding to the material structure, is recovered. This method, which is verified numerically and experimentally, is able to provide a “quasi-ideal” impulse response function and, therefore, greatly enhances the depth resolution for characterizing optically thin layers in the terahertz regime.
+abstract: Terahertz imaging is applied to characterize a hybrid fiber-reinforced composite laminate subject to low-velocity impact in this study. The hybrid fiber-reinforced composite laminate comprises unidirectional glass/epoxy and carbon/epoxy plies with a cross-ply stack pattern. Both impact-induced intra- and inter-laminar damages are successfully detected, and the damage evolution throughout the thickness is also evaluated. The interaction between the terahertz polarization and carbon-fiber orientation is investigated in detail. Inter-laminar damage at the interface and the intra-laminar damage close to the same interface can be differentiated via polarization-resolved imaging. With a parameter fitting method based on multiple regression analysis, delamination is characterized quantitatively. Terahertz C- and B-scan images clearly exhibit the propagation of the damage from the top to the bottom surface in three dimensions.
 author_notes:
 
 authors:
 - admin
 - Alexandre Locquet
+- Nico F. Declercq
 - D. S. Citrin
 
-date: "2017-04-08T00:00:00Z"
-doi: "10.1364/OL.42.001828"
+date: "2016-05-01T00:00:00Z"
+doi: "10.1016/j.compositesb.2016.02.016"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Optics Letters*'
+publication: '*Composites Part B: Engineering*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-04-08T00:00:00Z"
+publishDate: "2016-05-01T00:00:00Z"
 
-title: 'Depth resolution enhancement of terahertz deconvolution by autoregressive spectral extrapolation '
-url_pdf: https://hal.science/hal-02347766/file/Depth_resolution_enhancement_of_terahertz_deconvolution_by_autoregressive_spectral_extrapolation__1_.pdf
+title: 'Polarization-resolved terahertz imaging of intra- and inter-laminar damages in hybrid fiber-reinforced composite laminate subject to low-velocity impact'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1359836816001232
 
 ---
