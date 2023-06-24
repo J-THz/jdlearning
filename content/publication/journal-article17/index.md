@@ -1,27 +1,32 @@
 ---
-abstract: This Letter presents a method for enhancing the depth resolution of terahertz deconvolution based on autoregressive (AR) spectral extrapolation. The terahertz frequency components with a high signal-to-noise ratio (SNR) are modeled with an AR process, and the missing frequency components in the regions with low SNRs are extrapolated based on the AR model. In this way, the entire terahertz frequency spectrum of the impulse response function, corresponding to the material structure, is recovered. This method, which is verified numerically and experimentally, is able to provide a “quasi-ideal” impulse response function and, therefore, greatly enhances the depth resolution for characterizing optically thin layers in the terahertz regime.
+abstract: Terahertz frequency-wavelet deconvolution is utilized specifically for the stratigraphic and subsurface investigation of art paintings with terahertz reflective imaging. In order to resolve the optically thin paint layers, a deconvolution technique is enhanced by the combination of frequency-domain filtering and stationary wavelet shrinkage, and applied to investigate a mid-20th century Italian oil painting on paperboard, After Fishing, by Ausonio Tanda. Based on the deconvolved terahertz data, the stratigraphy of the painting including the paint layers is reconstructed and subsurface features are clearly revealed, demonstrating that terahertz frequency-wavelet deconvolution can be an effective tool to characterize stratified systems with optically thin layers.
 author_notes:
 
 authors:
 - admin
+- J. Bianca Jackson
+- Marcello Melis
+- David Giovanacci
+- Gillian C. Walker
 - Alexandre Locquet
+- John W. Bowen
 - D. S. Citrin
 
-date: "2017-04-08T00:00:00Z"
-doi: "10.1364/OL.42.001828"
+date: "2016-11-14T00:00:00Z"
+doi: "10.1364/OE.24.026972"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Optics Letters*'
+publication: '*Optics Express*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-04-08T00:00:00Z"
+publishDate: "2016-11-14T00:00:00Z"
 
-title: 'Depth resolution enhancement of terahertz deconvolution by autoregressive spectral extrapolation '
-url_pdf: https://hal.science/hal-02347766/file/Depth_resolution_enhancement_of_terahertz_deconvolution_by_autoregressive_spectral_extrapolation__1_.pdf
+title: 'Terahertz frequency-wavelet domain deconvolution for stratigraphic and subsurface investigation of art painting'
+url_pdf: https://opg.optica.org/oe/viewmedia.cfm?uri=oe-24-23-26972&seq=0
 
 ---
