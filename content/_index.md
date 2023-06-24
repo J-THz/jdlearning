@@ -171,6 +171,7 @@ sections:
     title: Gallery
   design:
     columns: "1"
+  id: gallery
     
 - block: collection
   content:
