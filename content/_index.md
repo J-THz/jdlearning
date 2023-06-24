@@ -163,15 +163,6 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
-  
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
-  id: gallery
     
 - block: collection
   content:
@@ -210,6 +201,15 @@ sections:
     columns: "2"
     view: compact
   id: talks
+  
+- block: markdown
+  content:
+    subtitle: ""
+    text: '{{< gallery album="demo" >}}'
+    title: Gallery
+  design:
+    columns: "1"
+  id: gallery
 
 - block: contact
   content:
