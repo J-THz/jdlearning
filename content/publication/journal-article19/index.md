@@ -1,5 +1,5 @@
 ---
-abstract: This Letter presents a method for enhancing the depth resolution of terahertz deconvolution based on autoregressive (AR) spectral extrapolation. The terahertz frequency components with a high signal-to-noise ratio (SNR) are modeled with an AR process, and the missing frequency components in the regions with low SNRs are extrapolated based on the AR model. In this way, the entire terahertz frequency spectrum of the impulse response function, corresponding to the material structure, is recovered. This method, which is verified numerically and experimentally, is able to provide a “quasi-ideal” impulse response function and, therefore, greatly enhances the depth resolution for characterizing optically thin layers in the terahertz regime.
+abstract: Terahertz (THz) reflection imaging is applied to characterize a woven glass fibre-reinforced composite laminate with a small region of forced delamination. The forced delamination is created by inserting a disk of 25- μ m-thick Upilex film, which is below the THz axial resolution, resulting in one featured echo with small amplitude in the reflected THz pulses. Low-amplitude components of the temporal signal due to ambient water vapor produce features of comparable amplitude with features associated with the THz pulse reflected off the interfaces of the delamination and suppress the contrast of THz C- and B-scans. Wavelet shrinkage de-noising is performed to remove water-vapor features, leading to enhanced THz C- and B-scans to locate the delamination in three dimensions with high contrast.
 author_notes:
 
 authors:
@@ -7,21 +7,21 @@ authors:
 - Alexandre Locquet
 - D. S. Citrin
 
-date: "2017-04-08T00:00:00Z"
-doi: "10.1364/OL.42.001828"
+date: "2016-03-08T00:00:00Z"
+doi: "10.1007/s10762-015-0226-9"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Optics Letters*'
+publication: '*Journal of Infrared, Millimeter, and Terahertz Waves*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-04-08T00:00:00Z"
+publishDate: "2016-03-08T00:00:00Z"
 
-title: 'Depth resolution enhancement of terahertz deconvolution by autoregressive spectral extrapolation '
-url_pdf: https://hal.science/hal-02347766/file/Depth_resolution_enhancement_of_terahertz_deconvolution_by_autoregressive_spectral_extrapolation__1_.pdf
+title: 'Enhanced Terahertz Imaging of Small Forced Delamination in Woven Glass Fibre-reinforced Composites with Wavelet De-noising'
+url_pdf: https://hal.science/hal-03048526/document
 
 ---
