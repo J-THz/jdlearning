@@ -1,18 +1,16 @@
 ---
-abstract: We demonstrate a single-shot ultrafast terahertz photography system that can capture multiple frames of a complex ultrafast scene in non-transparent media with sub-picosecond temporal resolutions. By multiplexing an optical probe beam in the time and spatial-frequency domains simultaneously, we encode the terahertz-captured spatiotemporal dynamics into distinct spatial-frequency regions of a multiplexed image, which is then computationally decoded and reconstructed.
+abstract: We demonstrate a new metal-wire waveguide topology, namely a four-wire waveguide, which simultaneously acts as a broadband terahertz polarization-division multiplexer and a novel platform to realize the independent manipulation of polarization-division multiplexed terahertz signals.
 address:
-  city: Montreal
-  country: Canada
-  postcode: "H2Z 1H5"
-  region: QC
-  street: Palais des congrès de Montréal
+  city: Sapporo
+  country: Japan
+  street: Sapporo Convention Center
 all_day: true
 authors: []
-date: "2023-06-12T13:00:00Z"
-date_end: "2023-06-15T15:00:00Z"
-event: Photonics North 2023
-event_url: https://www.photonicsnorth.com/en
-featured: false
+date: "2022-07-31T13:00:00Z"
+date_end: "2022-08-05T15:00:00Z"
+event: CLEO Pacific Rim 2022
+event_url: https://www.cleopr2022.org/
+featured: true
 image:
   caption: ''
   focal_point: Right
@@ -22,11 +20,11 @@ links:
   name: Follow
   url: https://twitter.com/JunliangTHz
 location: Montreal
-summary: Junliang gave a talk entitled 'Single-shot ultrafast photography with terahertz waves' in the 'High Power Laser Technology, Ultrafast Optics, and Applications' session.
+summary: Junliang was invited to give a talk entitled 'Manipulating Polarization-division Multiplexed Terahertz Signals with Four-wire Waveguides' in the 15th Pacific Rim Conference on Lasers and Electro-Optics (CLEO Pacific Rim, CLEO-PR 2022).
 tags: []
-title: Talk at Photonics North 2023
+title: Invited Talk at CLEO Pacific Rim 2022
 url_code: ""
-url_pdf: ""
+url_pdf: "https://opg.optica.org/abstract.cfm?uri=CLEOPR-2022-CMP3B_02"
 url_slides: ""
 url_video: ""
 ---
