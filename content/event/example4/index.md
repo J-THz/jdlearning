@@ -1,17 +1,14 @@
 ---
-abstract: We demonstrate a single-shot ultrafast terahertz photography system that can capture multiple frames of a complex ultrafast scene in non-transparent media with sub-picosecond temporal resolutions. By multiplexing an optical probe beam in the time and spatial-frequency domains simultaneously, we encode the terahertz-captured spatiotemporal dynamics into distinct spatial-frequency regions of a multiplexed image, which is then computationally decoded and reconstructed.
+abstract: By taking advantage of the characteristic sensitivity of terahertz radiation to the water content in biological tissues, we demonstrate the application of terahertz imaging for simultaneous monitoring of nanoparticle-assisted laser-tissue interaction and three-dimensional visualization of the photothermal damage induced by laser therapy.
 address:
-  city: Montreal
-  country: Canada
-  postcode: "H2Z 1H5"
-  region: QC
-  street: Palais des congrès de Montréal
+  city: Cabo San Lucas
+  country: Mexico
 all_day: true
 authors: []
-date: "2023-06-12T13:00:00Z"
-date_end: "2023-06-15T15:00:00Z"
-event: Photonics North 2023
-event_url: https://www.photonicsnorth.com/en
+date: "2022-07-11T13:00:00Z"
+date_end: "2022-07-13T15:00:00Z"
+event: 2022 IEEE Photonics Society Summer Topicals Meeting Series (SUM)
+event_url: https://www.ieee-sum.org/
 featured: false
 image:
   caption: ''
@@ -21,10 +18,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/JunliangTHz
-location: Montreal
-summary: Junliang gave a talk entitled 'Single-shot ultrafast photography with terahertz waves' in the 'High Power Laser Technology, Ultrafast Optics, and Applications' session.
+location: Mexico
+summary: Junliang was invited to give a keynote talk entitled 'Terahertz Imaging for Nanoparticle-assisted Laser Therapy' in the 2022 IEEE Photonics Society Summer Topicals Meeting Series (SUM).
 tags: []
-title: Talk at Photonics North 2023
+title: Keynote Talk at IEEE Photonics Society Summer Topicals Meeting 2022
 url_code: ""
 url_pdf: ""
 url_slides: ""
