@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/JunliangTHz
-location: Montreal
+location: Niagara Falls
 summary: Junliang was invited to give a talk entitled 'Terahertz polarization-division multiplexing within a four-wire waveguide' in the 'High Power Laser Technology, Ultrafast Optics, and Applications' session.
 tags: []
 title: Invited Talk at Photonics North 2022
