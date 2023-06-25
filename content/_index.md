@@ -217,7 +217,7 @@ sections:
     filters:
       folders:
       - event
-    title: Recent & Upcoming Talks
+    title: Recent Talks
   design:
     columns: "2"
     view: compact
