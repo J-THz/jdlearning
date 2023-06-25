@@ -1,17 +1,15 @@
 ---
-abstract: We demonstrate a single-shot ultrafast terahertz photography system that can capture multiple frames of a complex ultrafast scene in non-transparent media with sub-picosecond temporal resolutions. By multiplexing an optical probe beam in the time and spatial-frequency domains simultaneously, we encode the terahertz-captured spatiotemporal dynamics into distinct spatial-frequency regions of a multiplexed image, which is then computationally decoded and reconstructed.
+abstract: In this work, we introduce a versatile metal-wire waveguide geometry, namely a four-wire waveguide, which is capable of sustaining two independent and orthogonally polarized fundamental modes, thus acting as a broadband polarization-division multiplexer. By integrating multiscale-structured grooves into the wires of such a waveguide, we demonstrate the independent manipulation of polarization-division terahertz signals.
 address:
-  city: Montreal
-  country: Canada
-  postcode: "H2Z 1H5"
-  region: QC
-  street: Palais des congrès de Montréal
+  city: Delft
+  country: The Netherlands
+  street: TU Delft
 all_day: true
 authors: []
-date: "2023-06-12T13:00:00Z"
-date_end: "2023-06-15T15:00:00Z"
-event: Photonics North 2023
-event_url: https://www.photonicsnorth.com/en
+date: "2022-08-28T13:00:00Z"
+date_end: "2022-09-02T15:00:00Z"
+event: IRMMW-THz 2022
+event_url: https://www.irmmw-thz.org/all-conferences/
 featured: false
 image:
   caption: ''
@@ -21,10 +19,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/JunliangTHz
-location: Montreal
-summary: Junliang gave a talk entitled 'Single-shot ultrafast photography with terahertz waves' in the 'High Power Laser Technology, Ultrafast Optics, and Applications' session.
+location: The Netherlands
+summary: Junliang gave a talk entitled 'Terahertz four-wire waveguides for broadband signal processing and multiplexing' in the 47th International Conference on Infrared, Millimeter, and Terahertz Waves.
 tags: []
-title: Talk at Photonics North 2023
+title: Talk at IRMMW-THz 2022
 url_code: ""
 url_pdf: ""
 url_slides: ""
