@@ -2,76 +2,48 @@
 authors:
 - admin
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: "2023-05-25T00:00:00Z"
 image:
   caption: ""
   focal_point: ""
-lastMod: "2019-09-05T00:00:00Z"
+lastMod: "2023-05-26T00:00:00Z"
 projects: []
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+subtitle: INRS researchers achieved to unlock single-shot ultrafast imaging in terahertz system.
+summary: INRS researchers achieved to unlock single-shot ultrafast imaging in terahertz system.
 tags: []
-title: Display Jupyter Notebooks with Academic
+title: Capturing non-transparent ultrafast scenes
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+A research team at the Institut national de la recherche scientifique (INRS) led by Professor Roberto Morandotti reported the first realization of a single-shot ultrafast terahertz (THz) photography system. This important achievement will be able to provide both the spatial and temporal evolution of ultrashort dynamics with sub-picosecond resolution. In other terms, researchers will be now able to uncover the hidden laws of nature that govern the dynamics, which require imaging speeds orders of magnitudes beyond the limits of electronic sensors.
 
-![png](./index_1_0.png)
+Unlike the rapid development of ultrafast imaging at conventional optical wavelengths, single-shot ultrafast imaging with THz radiation remains unexplored. This is mainly due to the severe lack of key devices in the THz frequency regime, such as high-speed modulators and cameras, which are typically indispensable for ultrafast imaging.
 
-```python
-print("Welcome to Academic!")
-```
+“We have successfully unlocked single-shot ultrafast imaging in the THz regime. Thanks to our work, we can now capture a movie of irreversible ultrafast phenomena with an inter-frame time interval of less than 1 picosecond,” states Junliang Dong, research associate in Morandotti’s laboratory at INRS and first author of the study.
+Ultrafast imaging using terahertz radiation
 
-    Welcome to Academic!
+## Ultrafast imaging using terahertz radiation
 
-## Install Python and JupyterLab
+Single-shot ultrafast photography has emerged as a key technique to elucidate the complex dynamics underlying various ultrafast phenomena in nature. Propelled by recent advances in the fields of ultrafast lasers, high-speed cameras, and computational imaging, single-shot ultrafast optical imaging has been able to capture two-dimensional (2D) transient scenes at more than one trillion frames per second, fast enough to visualize optical pulses travelling through space at the speed of light.
 
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
+However, state-of-the-art single-shot ultrafast imaging techniques require the imaging targets to be optically transparent. This restriction prevents such techniques from exploring many critical ultrafast phenomena that occur in media with a short optical penetration depth, such as the dynamics of laser ablation in ceramics, magnetization in iron films, and carrier excitations in semiconductors.
 
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
+Recently, imaging using THz radiation has garnered significant interest due to its ability to ‘see through’ various materials. However, single-shot ultrafast THz imaging is still in the embryonic stage due to the absence of high-speed THz cameras.
 
-## Create or upload a Jupyter notebook
+In this study, Morandotti’s team from the INRS Énergie Matériaux Télécommunications Research Centre exploited the electro-optic sampling technique for THz detection with a carefully designed optical probe beam, which is simultaneously multiplexed in the time and spatial-frequency domains.
 
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
+“Since it only relies on commonly available optical components, such as beam splitters, optical delay lines, gratings, and CCD cameras, our technique essentially bypasses the need for any THz high-speed devices. Even so, it is powerful enough to record the ultrafast scenes carried by THz waves in a single shot,” explains Professor Morandotti.
 
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
+Occurring in a two-dimensional space and femtosecond-to-picosecond timescales, real-time imaging of these transient events reflects various fundamental mechanisms that remain complex and mostly inaccessible, such as chemical reactions and light-matter interactions.
 
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
+Conventionally, pump-probe methods are used to record ultrafast dynamics through repeated measurements. Nevertheless, many ultrafast phenomena have significant shot-to-shot variations and low occurrence rates, thus making them ‘non-repeatable’.
 
-## Edit your post metadata
+According to the researchers, their system is envisioned to be an unprecedented tool for the investigation of non-repeatable or destructive dynamics in advanced materials and structures, such as 2D materials, and even biological matter, like skin and corneas, which are typically optically opaque. 
 
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
+## About the publication
 
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
+The article “Single-shot ultrafast terahertz photography” was published online on March 27 2023, in Nature Communications, by Junliang Dong, Pei You, Alessandro Tomasino, Aycan Yurtsever and Roberto Morandotti.
 
-```
----
-title: My post's title
-date: 2019-09-01
+This research was funded by the Natural Sciences and Engineering Research Council of Canada (NSERC), the Fonds de Recherche Québec – Nature et technologies (FRNT), and a Canada Research Chair Program. First author Junliang Dong is holding a Mitacs Elevate Postdoctoral Fellowship.
 
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+## Note
+This post was created by Julie Robert at INRS. The original post can be found at https://inrs.ca/en/news/capturing-non-transparent-ultrafast-scenes/
