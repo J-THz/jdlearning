@@ -1,5 +1,6 @@
 ---
 title: "Junliang Dong"
+  
 education:
   courses:
   - course: Ph.D. in Electrical and Computer Engineering
@@ -48,5 +49,5 @@ superuser: yes
 bio: 
 ---
 
-Dr. Junliang Dong received his Ph.D. degree in electrical and computer engineering from Georgia Institute of Technology, USA, following his M.S. degree from Tsinghua University, China. He is currently a researcher at the Institut National de la Recherche Scientifique (INRS), Canada, where he serves as a group leader in the Nonlinear Photonics Group and manages the research activities related to terahertz (THz) technology. His research combines the fundamental understanding and practical applications of THz radiation, namely, THz imaging and sensing, THz biophotonics, as well as THz communications. Dr. Dong has published 28 articles in prestigious journals, 31 conference papers, and 5 patents. His work has been reported by Optics & Photonics News (cover feature), The New York Times, Phys.org, Science Daily, etc. He is the recipient of the Mitacs Elevate Fellowship and a member of IEEE, Optica, and SPIE. 
+Dr. Junliang Dong received his Ph.D. degree in electrical and computer engineering from [Georgia Institute of Technology](https://www.gatech.edu/), USA, following his M.S. degree from Tsinghua University, China. He is currently a researcher at the Institut National de la Recherche Scientifique (INRS), Canada, where he serves as a group leader in the Nonlinear Photonics Group and manages the research activities related to terahertz (THz) technology. His research combines the fundamental understanding and practical applications of THz radiation, namely, THz imaging and sensing, THz biophotonics, as well as THz communications. Dr. Dong has published 28 articles in prestigious journals, 31 conference papers, and 5 patents. His work has been reported by Optics & Photonics News (cover feature), The New York Times, Phys.org, Science Daily, etc. He is the recipient of the Mitacs Elevate Fellowship and a member of IEEE, Optica, and SPIE. 
 {style="text-align: justify;"}
