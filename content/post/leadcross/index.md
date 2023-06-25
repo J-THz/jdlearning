@@ -2,48 +2,45 @@
 authors:
 - admin
 categories: []
-date: "2023-05-25T00:00:00Z"
+date: "2022-05-05T00:00:00Z"
 image:
   caption: ""
   focal_point: ""
-lastMod: "2023-05-26T00:00:00Z"
+lastMod: "2022-05-05T00:00:00Z"
 projects: []
-subtitle: INRS researchers achieved to unlock single-shot ultrafast imaging in terahertz system.
-summary: INRS researchers achieved to unlock single-shot ultrafast imaging in terahertz system.
+subtitle: Researchers in France and the United States report a new noninvasive imaging method that combines broadband terahertz imaging with digital signal processing to safely reveal details underneath the corrosion on lead artifacts.
+summary: Researchers in France and the United States report a new noninvasive imaging method that combines broadband terahertz imaging with digital signal processing to safely reveal details underneath the corrosion on lead artifacts.
 tags: []
-title: Capturing non-transparent ultrafast scenes
+title: Terahertz Imaging Reveals Long-Buried Inscription
 ---
 
-A research team at the Institut national de la recherche scientifique (INRS) led by Professor Roberto Morandotti reported the first realization of a single-shot ultrafast terahertz (THz) photography system. This important achievement will be able to provide both the spatial and temporal evolution of ultrashort dynamics with sub-picosecond resolution. In other terms, researchers will be now able to uncover the hidden laws of nature that govern the dynamics, which require imaging speeds orders of magnitudes beyond the limits of electronic sensors.
+Corrosion on lead art and historical objects can hide important details that help historians understand the stories behind these pieces from the past. Unfortunately, noninvasive imaging with conventional optical frequencies does not work with lead objects—X-rays, for example, are absorbed by the lead, while infrared light reflects off of the corrosive layers. Another option, chemical removal of the corroded material, can damage delicate items.
 
-Unlike the rapid development of ultrafast imaging at conventional optical wavelengths, single-shot ultrafast imaging with THz radiation remains unexplored. This is mainly due to the severe lack of key devices in the THz frequency regime, such as high-speed modulators and cameras, which are typically indispensable for ultrafast imaging.
+Now, researchers in France and the United States report a new noninvasive imaging method that combines broadband terahertz imaging with digital signal processing to safely reveal details underneath the corrosion on lead artifacts (Sci. Rep., doi: 10.1038/s41598-022-06982-2). In a demonstration of the technique, the team revealed a previously unreadable portion of the New Testament “Lord’s Prayer” on a 16th-century lead funerary cross from France.
 
-“We have successfully unlocked single-shot ultrafast imaging in the THz regime. Thanks to our work, we can now capture a movie of irreversible ultrafast phenomena with an inter-frame time interval of less than 1 picosecond,” states Junliang Dong, research associate in Morandotti’s laboratory at INRS and first author of the study.
-Ultrafast imaging using terahertz radiation
+Ultimately, the research team writes that the method could provide “unprecedented information for digital acquisition and documentation” for archaeological studies as well as industrial applications like detecting damage on airplane fuselage. The multidisciplinary team led by David Citrin included experts in imaging, chemistry, art history and conservation, and computer science from the Georgia Institute of Technology in the United States and Georgia Tech-Lorraine and the Musée Charles-de-Bruyères in France.
 
-## Ultrafast imaging using terahertz radiation
+## Terahertz fills the imaging gap
 
-Single-shot ultrafast photography has emerged as a key technique to elucidate the complex dynamics underlying various ultrafast phenomena in nature. Propelled by recent advances in the fields of ultrafast lasers, high-speed cameras, and computational imaging, single-shot ultrafast optical imaging has been able to capture two-dimensional (2D) transient scenes at more than one trillion frames per second, fast enough to visualize optical pulses travelling through space at the speed of light.
+Lead funerary crosses are typically engraved with prayers or information about the deceased. The cross used in the new study is thought to be from the 16th century and was excavated from a burial plot in Remiremont, France, in 1843. Layers of surface corrosion made the engraving almost completely illegible.
 
-However, state-of-the-art single-shot ultrafast imaging techniques require the imaging targets to be optically transparent. This restriction prevents such techniques from exploring many critical ultrafast phenomena that occur in media with a short optical penetration depth, such as the dynamics of laser ablation in ceramics, magnetization in iron films, and carrier excitations in semiconductors.
+Citrin’s group at Georgia Tech-Lorraine specializes in non-destructive imaging techniques that reveal an object’s hidden layers without changing or damaging their original form (see “Cultural Artifacts in Terahertz Light,” OPN, March 2018). So when Aurélien Vacheret, director of the Musée Charles-de-Bruyères, presented Citrin’s group with the corroded lead cross in question, the researchers chose noninvasive single-cycle broadband terahertz pulsed imaging in reflection mode to obtain multispectral images of the obscured engravings on its surface.
 
-Recently, imaging using THz radiation has garnered significant interest due to its ability to ‘see through’ various materials. However, single-shot ultrafast THz imaging is still in the embryonic stage due to the absence of high-speed THz cameras.
+Unlike photons from radio, visible, infrared and X-ray regions, broadband terahertz pulses can penetrate through the corrosion products of lead as well as bounce off the engraved surface of the lead cross. And, unlike X-rays, terahertz rays are non-ionizing, making them safer for humans as well as less damaging to delicate artifacts.
 
-In this study, Morandotti’s team from the INRS Énergie Matériaux Télécommunications Research Centre exploited the electro-optic sampling technique for THz detection with a carefully designed optical probe beam, which is simultaneously multiplexed in the time and spatial-frequency domains.
+## Revealing the hidden inscription
 
-“Since it only relies on commonly available optical components, such as beam splitters, optical delay lines, gratings, and CCD cameras, our technique essentially bypasses the need for any THz high-speed devices. Even so, it is powerful enough to record the ultrafast scenes carried by THz waves in a single shot,” explains Professor Morandotti.
+To look beneath the corrosion on the lead cross, the researchers first used a commercial terahertz scanner to deliver short and fast broadband pulses (60 GHz to 3 THz) every 0.2 mm along the horizontal bar of the cross. They created 3D multispectral images of surface and sub-surface features by measuring radiation reflectance from six different frequency bands.
 
-Occurring in a two-dimensional space and femtosecond-to-picosecond timescales, real-time imaging of these transient events reflects various fundamental mechanisms that remain complex and mostly inaccessible, such as chemical reactions and light-matter interactions.
+They found that the higher frequency bands revealed features associated with the cross engravings—however, the resulting 3D images were not detailed enough to make the engravings legible. By incorporating the low-frequency-band data into their unique image post-processing chain, they were able to enhance the visibility of the inscriptions.
 
-Conventionally, pump-probe methods are used to record ultrafast dynamics through repeated measurements. Nevertheless, many ultrafast phenomena have significant shot-to-shot variations and low occurrence rates, thus making them ‘non-repeatable’.
+After computerized image enhancement, the researchers could read several Latin words and phrases belonging to the Pater Noster, commonly called Our Father or the Lord’s Prayer, on the cross’s surface. 
 
-According to the researchers, their system is envisioned to be an unprecedented tool for the investigation of non-repeatable or destructive dynamics in advanced materials and structures, such as 2D materials, and even biological matter, like skin and corneas, which are typically optically opaque. 
+## Better than electrochemical cleaning
 
-## About the publication
+To check their work, the researchers was given permission by the museum to electrochemically remove the corrosion from the lead cross. They found that their terahertz imaging and post-processing chain revealed engraving details that were not visible on the cleaned cross.
 
-The article “Single-shot ultrafast terahertz photography” was published online on March 27 2023, in Nature Communications, by Junliang Dong, Pei You, Alessandro Tomasino, Aycan Yurtsever and Roberto Morandotti.
-
-This research was funded by the Natural Sciences and Engineering Research Council of Canada (NSERC), the Fonds de Recherche Québec – Nature et technologies (FRNT), and a Canada Research Chair Program. First author Junliang Dong is holding a Mitacs Elevate Postdoctoral Fellowship.
+“Our approach enabled us to read a text that was hidden beneath corrosion, perhaps for hundreds of years,” said Alexandre Locquet of Georgia Tech-Lorraine in a press release. “Clearly, approaches that access such information without damaging the object are of great interest to archaeologists.”
 
 ## Note
-This post was created by Julie Robert at INRS. The original post can be found at https://inrs.ca/en/news/capturing-non-transparent-ultrafast-scenes/
+This post was created by Sarah Michaud at Optics & Photonics News. The original post can be found at https://www.optica-opn.org/home/newsroom/2022/may/terahertz_imaging_reveals_long-buried_inscription/?feed=News
