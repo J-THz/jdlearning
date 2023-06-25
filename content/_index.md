@@ -7,16 +7,14 @@ sections:
 
 - block: markdown
   content:
+    title:
     subtitle: ""
-    text: '1'
-    text: '2'
-    text: '3'
     text: ''
   design:
     background:
       image: 
         filename: logos.jpg
-        size: actual
+        size: cover
         position: center
         parallax: false
         text_color_light: true
@@ -202,7 +200,7 @@ sections:
 - block: collection
   content:
     filters:
-      exclude_featured: true
+      exclude_featured: false
       folders:
       - publication
     text: |-
@@ -212,7 +210,7 @@ sections:
     title: Recent Publications
   design:
     columns: "2"
-    view: citation
+    view: compact
     
 - block: collection
   content:
