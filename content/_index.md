@@ -14,11 +14,10 @@ sections:
     background:
       image: 
         filename: logos.jpg
-        size: cover
+        size: contain
         position: center
         parallax: false
         text_color_light: true
-
 
 
 - block: about.biography
