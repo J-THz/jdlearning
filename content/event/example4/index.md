@@ -23,7 +23,7 @@ summary: Junliang was invited to give a keynote talk entitled 'Terahertz Imaging
 tags: []
 title: Keynote Talk at IEEE Photonics Society Summer Topicals Meeting 2022
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9858294"
 url_slides: ""
 url_video: ""
 ---

@@ -24,7 +24,7 @@ summary: Junliang gave a talk entitled 'Terahertz four-wire waveguides for broad
 tags: []
 title: Talk at IRMMW-THz 2022
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9895707"
 url_slides: ""
 url_video: ""
 ---
