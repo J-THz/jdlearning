@@ -14,7 +14,7 @@ email: ''
 first_name: Junliang
 highlight_name: yes
 interests:
-- Terahertz Technology
+- Terahertz (THz) Technology
 - Imaging and Sensing
 - Communications
 - Biophotonics
@@ -49,5 +49,13 @@ superuser: yes
 bio: 
 ---
 
-Dr. Junliang Dong received his Ph.D. degree in electrical and computer engineering from [Georgia Institute of Technology](https://www.gatech.edu/), USA, following his M.S. degree from Tsinghua University, China. He is currently a researcher at the Institut National de la Recherche Scientifique (INRS), Canada, where he serves as a group leader in the Nonlinear Photonics Group and manages the research activities related to terahertz (THz) technology. His research combines the fundamental understanding and practical applications of THz radiation, namely, THz imaging and sensing, THz biophotonics, as well as THz communications. Dr. Dong has published 28 articles in prestigious journals, 31 conference papers, and 5 patents. His work has been reported by Optics & Photonics News (cover feature), The New York Times, Phys.org, Science Daily, etc. He is the recipient of the Mitacs Elevate Fellowship and a member of IEEE, Optica, and SPIE. 
+As a researcher, I define myself with three words: global, terahertz, and up-and-coming. 
+
+Firstly, my research career has been shaped by a global perspective. Coming from a Chinese family, I pursued my master's degree at [Tsinghua University](https://www.tsinghua.edu.cn/en/) before venturing to the United States for my Ph.D. studies at [Georgia Tech](https://www.gatech.edu/). During my Ph.D. study, I had the incredible opportunity to conduct research in the joint international laboratory between [Georgia Tech](https://www.gatech.edu/) and [CNRS](https://www.cnrs.fr/en), the French national laboratory system. After obtaining my Ph.D. degree, I moved to Canada and joined [INRS](https://inrs.ca/en/), where I am currently based. 
+
+Secondly, my research focuses on terahertz (THz) science and technology. I am passionate about exploring the fundamental principles and practical applications of [THz radiation](https://en.wikipedia.org/wiki/Terahertz_radiation), particularly in the areas of imaging, sensing, and communications. This field presents exciting possibilities for pushing the boundaries of what is possible in terms of understanding and utilizing [THz radiation](https://en.wikipedia.org/wiki/Terahertz_radiation).
+
+Lastly, I consider myself an up-and-coming researcher with ~10 years of experience in the THz field. Over the course of my career, I have achieved significant outcomes, resulting in 5 patents, 28 journal articles, and 31 conference papers. These results have been driven by my dedication to advancing knowledge in the THz domain and making continuous contributions to the community.
+
+I aspire to develop innovative solutions and technologies that harness the potential of [THz radiation](https://en.wikipedia.org/wiki/Terahertz_radiation), addressing real-world challenges and driving advancements in various applications. I am committed to staying at the forefront of THz research, collaborating with international partners, and making a positive impact on the scientific community and society as a whole.
 {style="text-align: justify;"}
