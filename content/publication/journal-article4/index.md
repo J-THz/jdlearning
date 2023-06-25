@@ -25,5 +25,6 @@ publishDate: "2022-03-03T00:00:00Z"
 
 title: Revealing inscriptions obscured by time on an early-modern lead funerary cross using terahertz multispectral imaging
 url_pdf: https://rdcu.be/dfe2v
+url_video: "https://www.youtube.com/watch?v=KjiQl3YEtaw"
 
 ---
