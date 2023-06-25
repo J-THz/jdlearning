@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: Forest
+  theme_day: minimal
   theme_night: true
   font: minimal
   font_size: L

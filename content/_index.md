@@ -37,7 +37,7 @@ sections:
       date_start: "2020-04-01"
       description: |2-
           * Advisor: [Prof. Roberto Morandotti](https://inrs.ca/en/research/professors/roberto-morandotti/)
-          * Managing all research activities related to THz photonics in the Nonlinear Photonics Group.
+          * Managing all research activities related to THz photonics in the [Nonlinear Photonics Group](https://www.nonlinearphotonics.com/).
           * Funding: NSERC Discovery, Strategic, and Alliance programs; New Frontiers in Research Fund (NFRF); FRQS Audace.
       location: Montreal, Canada
       
