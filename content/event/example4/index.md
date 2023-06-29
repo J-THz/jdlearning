@@ -9,7 +9,7 @@ date: "2022-07-11T13:00:00Z"
 date_end: "2022-07-13T15:00:00Z"
 event: 2022 IEEE Photonics Society Summer Topicals Meeting Series (SUM)
 event_url: https://www.ieee-sum.org/
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: Right
