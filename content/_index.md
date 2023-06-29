@@ -14,7 +14,7 @@ sections:
     background:
       image: 
         filename: logos.jpg
-        size: contain
+        size: actual
         position: center
         parallax: false
         text_color_light: true
