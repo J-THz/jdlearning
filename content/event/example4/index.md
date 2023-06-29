@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/JunliangTHz
-location: Mexico
+location: Cabo San Lucas, Mexico
 summary: Junliang was invited to give a keynote talk entitled 'Terahertz Imaging for Nanoparticle-assisted Laser Therapy' in the 2022 IEEE Photonics Society Summer Topicals Meeting Series (SUM).
 tags: []
 title: Keynote Talk at IEEE Photonics Society Summer Topicals Meeting 2022

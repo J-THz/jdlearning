@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/JunliangTHz
-location: The Netherlands
+location: Delft, The Netherlands
 summary: Junliang gave a talk entitled 'Terahertz four-wire waveguides for broadband signal processing and multiplexing' in the 47th International Conference on Infrared, Millimeter, and Terahertz Waves.
 tags: []
 title: Talk at IRMMW-THz 2022

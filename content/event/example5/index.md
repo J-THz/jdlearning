@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/JunliangTHz
-location: Montreal
+location: Sapporo, Japan
 summary: Junliang was invited to give a talk entitled 'Manipulating Polarization-division Multiplexed Terahertz Signals with Four-wire Waveguides' in the 15th Pacific Rim Conference on Lasers and Electro-Optics (CLEO Pacific Rim, CLEO-PR 2022).
 tags: []
 title: Invited Talk at CLEO Pacific Rim 2022

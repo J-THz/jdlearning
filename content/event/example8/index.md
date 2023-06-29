@@ -7,7 +7,7 @@ date: "2022-01-22T13:00:00Z"
 date_end: "2022-01-27T15:00:00Z"
 event: SPIE Photonics West 2022
 event_url: https://spie.org/conferences-and-exhibitions/photonics-west
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: Right

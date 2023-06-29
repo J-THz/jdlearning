@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/JunliangTHz
-location: San Jose
+location: San Jose, USA
 summary: Junliang gave a talk entitled 'Broadband Terahertz Signal Processing and Multiplexing with Four-wire Waveguides' in the 2022 Conference on Lasers and Electro-Optics (CLEO).
 tags: []
 title: Talk at CLEO US 2022

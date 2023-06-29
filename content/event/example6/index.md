@@ -10,7 +10,7 @@ date: "2022-05-24T13:00:00Z"
 date_end: "2022-05-26T15:00:00Z"
 event: Photonics North 2022
 event_url: https://www.photonicsnorth.com/en
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: Right
@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/JunliangTHz
-location: Niagara Falls
+location: Niagara Falls, Canada
 summary: Junliang was invited to give a talk entitled 'Terahertz polarization-division multiplexing within a four-wire waveguide' in the 'High Power Laser Technology, Ultrafast Optics, and Applications' session.
 tags: []
 title: Invited Talk at Photonics North 2022
