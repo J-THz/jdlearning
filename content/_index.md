@@ -22,7 +22,7 @@ sections:
 
 - block: about.biography
   content:
-    title: Biography
+    title: About me
     username: admin
   id: about
 
@@ -61,7 +61,7 @@ sections:
       date_end: "2017-07-01"
       date_start: "2014-04-01"
       description: |2-
-          * Advisor: [Prof. David S. Citrin](https://ece.gatech.edu/directory/david-s-citrin) and Dr. Alexandre Locquet
+          * Advisor: [Prof. David S. Citrin](https://ece.gatech.edu/directory/david-s-citrin) and [Dr. Alexandre Locquet](http://photonics.georgiatech-metz.fr/node/25)
           * THz imaging for nondestructive evaluation of fiber-reinforced composites.
           * THz applications in cultural heritage science: examination of art and archaeology.
           * Advanced THz deconvolution techniques for depth resolution enhancement.
@@ -74,7 +74,7 @@ sections:
       date_end: "2017-07-01"
       date_start: "2016-01-01"
       description: |2-
-          * Advisor: [Prof. David S. Citrin](https://ece.gatech.edu/directory/david-s-citrin) and Dr. Alexandre Locquet
+          * Advisor: [Prof. David S. Citrin](https://ece.gatech.edu/directory/david-s-citrin) and [Dr. Alexandre Locquet](http://photonics.georgiatech-metz.fr/node/25)
           * THz imaging for the non-invasive and non-contact characterization of failure modes and corrosion process in polyer-coated steel.
           * Funding: ArcelorMittal, the World's Leading Integrated Steel and Mining Company.
       location: Atlanta, USA/Metz, France
