@@ -123,7 +123,7 @@ sections:
       tag: ""
     offset: 0
     order: desc
-    subtitle: "Our Work in the News & Media"
+    subtitle: "Our Research News Releases in Media"
     text: ""
     title: 'Recent Posts'
   design:
