@@ -38,7 +38,7 @@ sections:
       description: |2-
           * Advisor: [Prof. Roberto Morandotti](https://inrs.ca/en/research/professors/roberto-morandotti/)
           * Managing all research activities related to THz photonics in the [Nonlinear Photonics Group](https://www.nonlinearphotonics.com/).
-          * Funding: NSERC Discovery, Strategic, and Alliance programs; New Frontiers in Research Fund (NFRF); FRQS Audace.
+          * Funding: [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) Discovery, Strategic, and Alliance programs; New Frontiers in Research Fund ([NFRF](https://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/index-eng.aspx)); FRQ [Audace](https://frq.gouv.qc.ca/recherche-intersectorielle/programme-audace/).
       location: Montreal, Canada
       
       title: Group leader
@@ -52,7 +52,7 @@ sections:
           * Single-shot ultrafast THz photography for capturing transient events.
           * Waveguide-integrated signal-processing devices for THz communications. 
           * THz biomedical imaging for nanoparticle-assisted laser therapeutics.
-          * Funding: Mitacs Elevate Postdoctoral Fellowship.
+          * Funding: [Mitacs](https://www.mitacs.ca/en) Elevate Postdoctoral Fellowship.
       location: Montreal, Canada
       title: Postdoctoral Research Fellow
     - company: Georgia Tech - CNRS, International Research Lab (IRL) 2958
@@ -65,7 +65,7 @@ sections:
           * THz imaging for nondestructive evaluation of fiber-reinforced composites.
           * THz applications in cultural heritage science: examination of art and archaeology.
           * Advanced THz deconvolution techniques for depth resolution enhancement.
-          * Funding: Conseil Regional du Grand Est of the Fonds European de Developpement Regional (FEDER) and the Institut Carnot ARTS.
+          * Funding: Conseil Regional du Grand Est of the Fonds European de Developpement Regional ([FEDER](https://www.europe-en-france.gouv.fr/fr/fonds-europeens/fonds-europeen-de-developpement-regional-FEDER)) and the [Institut Carnot ARTS](https://www.ic-arts.eu/).
       location: Atlanta, USA/Metz, France
       title: Graduate Research Assistant
     - company: Georgia Tech - CNRS, International Research Lab (IRL) 2958
@@ -76,7 +76,7 @@ sections:
       description: |2-
           * Advisor: [Prof. David S. Citrin](https://ece.gatech.edu/directory/david-s-citrin) and [Dr. Alexandre Locquet](http://photonics.georgiatech-metz.fr/node/25)
           * THz imaging for the non-invasive and non-contact characterization of failure modes and corrosion process in polyer-coated steel.
-          * Funding: ArcelorMittal, the World's Leading Integrated Steel and Mining Company.
+          * Funding: [ArcelorMittal](https://corporate.arcelormittal.com/), the World's Leading Integrated Steel and Mining Company.
       location: Atlanta, USA/Metz, France
       title: Graduate Research Assistant
     - company: Department of Automation, Tsinghua University
