@@ -127,8 +127,8 @@ sections:
     text: ""
     title: Recent Posts
   design:
-    columns: "2"
-    view: compact
+    columns: "1"
+    view: showcase
   id: posts
   
 - block: collection
@@ -173,10 +173,16 @@ sections:
   content:
     subtitle: ""
     text: '{{< gallery album="demo" >}}'
-    title: Gallery
+    title: Gallery  
+  gallery_items:
+    album:demo
+    image:2JD-GB-AT.jpg
+    caption:this is my caption
   design:
     columns: "1"
   id: gallery
+
+
 
 - block: contact
   content:
