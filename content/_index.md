@@ -123,9 +123,9 @@ sections:
       tag: ""
     offset: 0
     order: desc
-    subtitle: ""
+    subtitle: "Our Work in the News & Media"
     text: ""
-    title: Recent Posts
+    title: 'Recent Posts'
   design:
     columns: "1"
     view: showcase
