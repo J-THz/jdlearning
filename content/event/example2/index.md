@@ -22,7 +22,7 @@ links:
   name: Follow
   url: https://twitter.com/JunliangTHz
 location: San Jose, USA
-summary: Junliang gave a talk entitled 'Single-Shot Ultrafast Imaging With Terahertz Radiation' in the 'THz Imaging' session.
+summary: Junliang gave a talk entitled 'Single-Shot Ultrafast Imaging With Terahertz Radiation' in the 'THz Imaging' session of CLEO 2023.
 tags: []
 title: Talk at CLEO US 2023
 url_code: ""

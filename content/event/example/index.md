@@ -22,7 +22,7 @@ links:
   name: Follow
   url: https://twitter.com/JunliangTHz
 location: Montreal, Canada
-summary: Junliang gave a talk entitled 'Single-shot ultrafast photography with terahertz waves' in the 'High Power Laser Technology, Ultrafast Optics, and Applications' session.
+summary: Junliang gave a talk entitled 'Single-shot ultrafast photography with terahertz waves' in the 'High Power Laser Technology, Ultrafast Optics, and Applications' session of Photonics North 2023.
 tags: []
 title: Talk at Photonics North 2023
 url_code: ""
