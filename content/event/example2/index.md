@@ -26,7 +26,7 @@ summary: Junliang gave a talk entitled 'Single-Shot Ultrafast Imaging With Terah
 tags: []
 title: Talk at CLEO US 2023
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10259822"
 url_slides: ""
 url_video: ""
 ---

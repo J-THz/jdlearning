@@ -26,7 +26,7 @@ summary: Junliang gave a talk entitled 'Single-shot ultrafast photography with t
 tags: []
 title: Talk at Photonics North 2023
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10222963"
 url_slides: ""
 url_video: ""
 ---
