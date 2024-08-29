@@ -21,7 +21,7 @@ summary: Junliang served as the session chair and gave a talk entitled 'Single-s
 tags: []
 title: Session Chair and Talk at IRMMW-THz 2023
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10298997"
 url_slides: ""
 url_video: ""
 ---

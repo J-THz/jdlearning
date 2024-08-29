@@ -9,7 +9,7 @@ image:
 lastMod: "2023-09-01T00:00:00Z"
 projects: []
 subtitle: Terahertz waves uncover the hidden inscription on a 16th-century lead cross.
-summary: Terahertz waves uncover the hidden inscription on a 16th-century lead cross.
+summary: Our work on THz applications in archaeology is reported by American Scientist.
 tags: []
 title: Unearthing a Prayer for the Dead
 ---

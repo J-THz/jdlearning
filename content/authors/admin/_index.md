@@ -5,10 +5,10 @@ education:
   courses:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: Georgia Institute of Technology, USA
-    year: 2017
+    year: 
   - course: M.Sc. in Control Science and Engineering
     institution: Tsinghua University, China
-    year: 2011
+    year:
 
 email: ''
 first_name: Junliang
@@ -21,9 +21,9 @@ interests:
 - Nondestructive Evaluation
 last_name: Dong
 organizations:
-- name: Institut National de la Recherche Scientifique (INRS)
-  url: https://inrs.ca/en/
-role: Group Leader
+- name: University of Arkansas
+  url: https://www.uark.edu/
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,9 +52,10 @@ superuser: yes
 bio: 
 ---
 
-I define myself as a scientist working on terahertz ([THz](https://en.wikipedia.org/wiki/Terahertz_radiation)) science and technology. 
+I am currently a tenure-track assistant professor in the Department of Electrical Engineering and Computer Science ([EECS](https://electrical-engineering.uark.edu/)) at the [University of Arkansas](https://www.uark.edu/), working on terahertz ([THz](https://en.wikipedia.org/wiki/Terahertz_radiation)) science and technology. 
 
-My career has been shaped by a global perspective. Coming from a Chinese family, I pursued my master's degree at [Tsinghua University](https://www.tsinghua.edu.cn/en/) before venturing to the United States for my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/). During my Ph.D. studies, I had the incredible opportunity to go to Europe and conduct research in the joint international laboratory between [Georgia Tech](https://www.gatech.edu/) and [CNRS](https://www.cnrs.fr/en), the French national laboratory system. After obtaining my Ph.D. degree, I moved to Canada and joined [INRS](https://inrs.ca/en/), where I served as the group leader and managed research activities related to THz photonics. 
+My career has been shaped by a global perspective. I pursued my master's degree at [Tsinghua University](https://www.tsinghua.edu.cn/en/) before venturing to the United States for my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/). During my Ph.D. studies, I had the incredible opportunity to go to Europe and conduct research in the joint international laboratory between [Georgia Tech](https://www.gatech.edu/) and [CNRS](https://www.cnrs.fr/en), the French national laboratory system. After obtaining my Ph.D. degree, I joined the National Institute of Scientific Research ([INRS](https://inrs.ca/en/)) in Canada, where I served as the group leader and managed research activities related to THz photonics. 
 
-I am passionate about exploring the fundamental principles and practical applications of THz radiation, particularly in the areas of imaging, sensing, and communications. I aspire to develop innovative solutions that harness the potential of terahertz radiation, addressing real-world challenges and driving advancements in various applications. I am committed to staying at the forefront of terahertz research, collaborating with international partners, and making continuous contributions to the [scientific community](https://www.irmmw-thz.org/) and society as a whole.
+I am passionate about exploring the fundamental principles and practical applications of THz radiation, particularly in the areas of imaging, sensing, and communications. My work has been published in ~30 peer-reviewed journals, ~40 conference proceedings, and 5 patents. I am a member of IEEE, Optica, and SPIE.
 
+[I am actively seeking enthusiastic and motivated students to join our group. Feel free to reach out if you are interested in working with me. Let's play with THz waves together!](/#contact)

@@ -9,7 +9,7 @@ image:
 lastMod: "2022-05-05T00:00:00Z"
 projects: []
 subtitle: Researchers in France and the United States report a new noninvasive imaging method that combines broadband terahertz imaging with digital signal processing to safely reveal details underneath the corrosion on lead artifacts.
-summary: Researchers in France and the United States report a new noninvasive imaging method that combines broadband terahertz imaging with digital signal processing to safely reveal details underneath the corrosion on lead artifacts.
+summary: For the second time, our work on THz applications for art and conservation science is reported by Optics & Photonics News.
 tags: []
 title: Terahertz Imaging Reveals Long-Buried Inscription
 ---

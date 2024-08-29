@@ -9,7 +9,7 @@ image:
 lastMod: "2023-05-26T00:00:00Z"
 projects: []
 subtitle: INRS researchers achieved to unlock single-shot ultrafast imaging in terahertz system.
-summary: INRS researchers achieved to unlock single-shot ultrafast imaging in terahertz system.
+summary: Our work on single-shot ultrafast THz imaging is highlighted by INRS News.
 tags: []
 title: Capturing non-transparent ultrafast scenes
 ---

@@ -21,7 +21,7 @@ doi: "10.1364/BOE.389561"
 featured: true
 image:
   caption: 'Image source: iStockphoto'
-  focal_point: ""
+  focal_point: "Top"
   preview_only: false
 projects: []
 publication: '*Biomedical Optics Express*'

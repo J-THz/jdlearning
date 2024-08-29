@@ -1,31 +1,24 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2024-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+
+summary: Our group aims at developing the next-generation THz imaging systems that synergistically combine optics and computations. Such systems involve the joint design of the hardware and computer algorithms, which can overcome physical limitations and achieve unprecedented capabilities.
 tags:
-- Deep Learning
-title: Example Project
+- imaging
+title: Computational THz imaging
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Over the past two decades, THz imaging has evolved from an intriguing concept into a vibrant research field with significant scientific and commercial impact. Despite this progress, current THz imaging systems still suffer from some intrinsic challenges, such as large footprints, low acquisition speed, and low spatial resolutions. In addition, key devices are in sore need of improvements, such as compact THz sources, high-speed THz modulators, and high-sensitivity THz cameras.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Our research aims at developing the next-generation THz imaging systems that synergistically combine optics and computations. Such systems involve the joint design of the hardware (components, sensors, and devices) and computer algorithms, which can overcome the above-mentioned physical limitations and achieve unprecedented capabilities.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+![targets](Figure.png "Single-shot ultrafast THz photography system")
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Our latest invention is the development of the first [single-shot ultrafast THz photography](https://www.nature.com/articles/s41467-023-37285-3) system. Capturing transient events is pivotal to unveiling many fundamental mechanisms in physics, chemistry, and biology. Especially for ultrashort events on picosecond timescales, real-time imaging modalities with ultrahigh temporal resolution are required. To date, single-shot ultrafast optical imaging has emerged as a powerful tool for elucidating the complex dynamics underlying miscellaneous ultrafast phenomena. Solely operating at conventional optical wavelength, however, such a technique requires its imaging objects to be transparent. To overcome this issue, we demonstrated, for the first time, a single-shot ultrafast THz imaging system that can capture multiple frames of an ultrafast process with a sub-picosecond temporal resolution. Such a technique is envisioned as an indispensable tool to access a variety of crucial ultrafast phenomena that occur in optically opaque scenarios.

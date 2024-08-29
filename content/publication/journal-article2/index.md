@@ -23,7 +23,7 @@ doi: "10.1038/s41467-022-27993-7"
 featured: true
 image:
   caption: ''
-  focal_point: ""
+  focal_point: "Top"
   preview_only: false
 projects: []
 publication: '*Nature Communications*'

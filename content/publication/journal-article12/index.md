@@ -13,7 +13,7 @@ doi: "10.1038/s41598-017-15069-2"
 featured: true
 image:
   caption: ''
-  focal_point: ""
+  focal_point: "Top"
   preview_only: false
 projects: []
 publication: '*Scientific Reports*'
